@@ -1,0 +1,62 @@
+// Here you can add other styles
+.profile-pic {
+    border-radius: 50%;
+}
+#profpic {
+    display: none;
+}
+.profpic-upload {
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+    color: #fff;
+    background-color: #20a8d8;
+    border-color: #20a8d8;
+}
+.map-container-offering {
+    height: 450px;
+    width: 100%;
+}
+.map-container-profile {
+    height: 200px;
+    width: 100%;
+}
+.map-container-profile-public {
+    height: 200px;
+    width: 100%;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+.card-btn {
+    float: right;
+    margin-top: 25px;
+}
+.card-title {
+    font-size: 1.4em;
+}
+.card-icon {
+    padding-top: 5px;
+}
+.offering-title {
+    line-height: 1.5 !important;
+}
+.applicant-calendar {
+    height: 500px;
+}
+.verified-text {
+    color: #20a8d8;
+    font-size: 1.4em;
+    vertical-align: middle;
+}
+.rating-color {
+    color: #ffa500;
+}
+.profile-subtitle {
+    color: #a9a9a9;
+    margin: 20px;
+}
+.profile-data {
+    margin: 10px;
+    margin-left: 20px;
+}
